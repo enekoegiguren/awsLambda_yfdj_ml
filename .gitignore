@@ -1,0 +1,3 @@
+# Ignore virtual environment
+myenv/
+lambda_function_files/utils/.env
